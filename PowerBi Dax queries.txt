@@ -1,0 +1,21 @@
+PowerBi Dax queries
+
+count_number_rows:-
+=count(order[order_id])
+=countrows(tablename)-> all rows has to be unique
+=distinctcount(order[order_id])
+to add comment in the measure shift+enter and then enter // and then add the comment which you want in the line 2 of the measure formula
+
+Sum:-
+=Sum(order[quatity])
+
+
+difference between new column and new measure is that new measure its performed over dynamic value and performed over aggregated values
+and new col is that it is performed over static values 
+
+Actual_profit = (sum(Orders[Selling Price])-sum(Orders[Product Cost]))*sum(Orders[Quantity])---> this is new measure 
+new_col---> for this we have to remove sum   
+
+----->how to get day from the date type of col and get another col with the day<-----
+
+-->in table view click the new col and then in formula type like week_day=weekdat(customer[order_date],2) gpt this
