@@ -1,0 +1,3 @@
+Sahil bhai ni notes
+about the scalability of thee apps like ci/cd pipelines and everything (specially for my hospital mate project)
+
