@@ -9,3 +9,15 @@
 -improvements morning wake up 5.40 
 -do sql in job
 -focus learning after wards in the evening 
+
+03-02-2026
+1) Morning i woke up at 5:40 able to do 1.20 hrs of powerbi learned about 
+   -how to get data from csv, different granuality like month and daily,variance(sales-target),variance % is good option
+2) 40 min of sql at job 
+   -able to do one medium question myself about self join about consecutive 3 times same number -> used self join 3 times
+3) 30 mins chat with harsh Punjabi
+   little bit of sql udemy course
+
+3.5/5 productivity
+-improvements can do 2 hrs in the morning if i wake up 5.30
+- good hrs straight in evenings
